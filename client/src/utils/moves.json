@@ -1,0 +1,7 @@
+{
+    "moves": [
+        { "move": "Paper", "kills": "Rock"},
+        { "move": "Rock", "kills": "Scissors"},
+        { "move": "Scissors", "kills": "Paper"}
+    ]
+}
