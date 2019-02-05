@@ -12,7 +12,7 @@ Technology stack:
 ## Installation:
 
 1. First, make sure you have NodeJS and MongoDB installed on your machine.
-2. Run `npm install` inside the folder.
+2. Run `npm install` inside the folder (maybe you have to run 'npm install' inside /client and /backend folders)
 
 ## Available Scripts
 
