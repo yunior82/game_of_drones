@@ -1,3 +1,19 @@
+The following project implements the Rock, Paper Scissors game.
+
+Technology stack:
+
+- React
+- ES6
+- MongoDB
+- Mongoose
+- Axios
+- Bootstrap
+
+## Installation:
+
+1. First, make sure you have NodeJS and MongoDB installed on your machine.
+2. Run `npm install` inside the folder.
+
 ## Available Scripts
 
 In the project directory, you can run:
